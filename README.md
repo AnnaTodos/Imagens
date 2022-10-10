@@ -1,2 +1,1 @@
-# Teste.doc
-Teste para a documentação
+# Repositório de imagens migradas junto a documentação.
